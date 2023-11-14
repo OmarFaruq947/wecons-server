@@ -1,0 +1,1095 @@
+{
+  "userInformation": [
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Knight Emerson",
+      "email": "knightemerson@earthplex.com",
+      "phone": "+880 (805) 465-3552",
+      "districTName": "Pabna",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "Lara Rojas",
+      "email": "lararojas@earthplex.com",
+      "phone": "+880 (845) 483-2209",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "name": "Stanley Larsen",
+      "email": "stanleylarsen@earthplex.com",
+      "phone": "+880 (895) 542-3356",
+      "districTName": "Natore",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Tammie Davis",
+      "email": "tammiedavis@earthplex.com",
+      "phone": "+880 (808) 479-2975",
+      "districTName": "nuakhaly",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Scott Witt",
+      "email": "scottwitt@earthplex.com",
+      "phone": "+880 (877) 585-2263",
+      "districTName": "manikgonjo",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Joan Snow",
+      "email": "joansnow@earthplex.com",
+      "phone": "+880 (873) 490-3612",
+      "districTName": "Dhaka",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "name": "Arlene Guerra",
+      "email": "arleneguerra@earthplex.com",
+      "phone": "+880 (901) 481-2869",
+      "districTName": "Dhaka",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Bradshaw Barnes",
+      "email": "bradshawbarnes@earthplex.com",
+      "phone": "+880 (953) 524-3879",
+      "districTName": "rajsahi",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "Letitia Daugherty",
+      "email": "letitiadaugherty@earthplex.com",
+      "phone": "+880 (920) 436-2052",
+      "districTName": "rajsahi",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "name": "Lang Parrish",
+      "email": "langparrish@earthplex.com",
+      "phone": "+880 (982) 563-3714",
+      "districTName": "Dhaka",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "West William",
+      "email": "westwilliam@earthplex.com",
+      "phone": "+880 (893) 439-3769",
+      "districTName": "rajsahi",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Bates Reeves",
+      "email": "batesreeves@earthplex.com",
+      "phone": "+880 (809) 444-2463",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "name": "Wiggins Frank",
+      "email": "wigginsfrank@earthplex.com",
+      "phone": "+880 (971) 409-2713",
+      "districTName": "rajsahi",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Bridges Luna",
+      "email": "bridgesluna@earthplex.com",
+      "phone": "+880 (861) 536-3984",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "Luella Nelson",
+      "email": "luellanelson@earthplex.com",
+      "phone": "+880 (884) 502-2293",
+      "districTName": "rajsahi",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "name": "Grimes Glenn",
+      "email": "grimesglenn@earthplex.com",
+      "phone": "+880 (837) 571-3854",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Ayala Cohen",
+      "email": "ayalacohen@earthplex.com",
+      "phone": "+880 (945) 578-3552",
+      "districTName": "rajsahi",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Stanton Vargas",
+      "email": "stantonvargas@earthplex.com",
+      "phone": "+880 (834) 565-3030",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "name": "Donaldson Day",
+      "email": "donaldsonday@earthplex.com",
+      "phone": "+880 (929) 563-3425",
+      "districTName": "Sylhet",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Morrison Larson",
+      "email": "morrisonlarson@earthplex.com",
+      "phone": "+880 (985) 430-2362",
+      "districTName": "Sylhet",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "Alice Lancaster",
+      "email": "alicelancaster@earthplex.com",
+      "phone": "+880 (925) 406-2332",
+      "districTName": "Dhaka",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "name": "Lawanda Shields",
+      "email": "lawandashields@earthplex.com",
+      "phone": "+880 (938) 444-2326",
+      "districTName": "Sylhet",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Mercado Solis",
+      "email": "mercadosolis@earthplex.com",
+      "phone": "+880 (823) 505-2555",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Hanson Berger",
+      "email": "hansonberger@earthplex.com",
+      "phone": "+880 (946) 477-2978",
+      "districTName": "Sylhet",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Wong Ramos",
+      "email": "wongramos@earthplex.com",
+      "phone": "+880 (840) 537-2524",
+      "districTName": "Dhaka",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Francis Wilcox",
+      "email": "franciswilcox@earthplex.com",
+      "phone": "+880 (842) 597-2070",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "name": "Gentry Barnett",
+      "email": "gentrybarnett@earthplex.com",
+      "phone": "+880 (898) 460-3876",
+      "districTName": "Sylhet",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Harriett Ray",
+      "email": "harriettray@earthplex.com",
+      "phone": "+880 (821) 425-2671",
+      "districTName": "Sylhet",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "Morgan Harrell",
+      "email": "morganharrell@earthplex.com",
+      "phone": "+880 (972) 482-3581",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "name": "Cheri Gaines",
+      "email": "cherigaines@earthplex.com",
+      "phone": "+880 (829) 434-2629",
+      "districTName": "Sylhet",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Toni Harding",
+      "email": "toniharding@earthplex.com",
+      "phone": "+880 (887) 561-3909",
+      "districTName": "Natore",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "name": "Garcia Thomas",
+      "email": "garciathomas@earthplex.com",
+      "phone": "+880 (821) 433-2589",
+      "districTName": "Dhaka",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "name": "Kari Nieves",
+      "email": "karinieves@earthplex.com",
+      "phone": "+880 (963) 424-2835",
+      "districTName": "Natore",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "June Carr",
+      "email": "junecarr@earthplex.com",
+      "phone": "+880 (948) 553-3808",
+      "districTName": "Natore",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Rasmussen Mercado",
+      "email": "rasmussenmercado@earthplex.com",
+      "phone": "+880 (943) 439-3534",
+      "districTName": "Dhaka",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Agnes Sellers",
+      "email": "agnessellers@earthplex.com",
+      "phone": "+880 (947) 442-2853",
+      "districTName": "Natore",
+      "status": "done",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "name": "Stella Howard",
+      "email": "stellahoward@earthplex.com",
+      "phone": "+880 (990) 496-2403",
+      "districTName": "Pabna",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Hendrix Dillon",
+      "email": "hendrixdillon@earthplex.com",
+      "phone": "+880 (931) 570-3423",
+      "districTName": "Pabna",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Mcintosh Cole",
+      "email": "mcintoshcole@earthplex.com",
+      "phone": "+880 (858) 410-3706",
+      "districTName": "Pabna",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Charles Mullen",
+      "email": "charlesmullen@earthplex.com",
+      "phone": "+880 (872) 587-2750",
+      "districTName": "Pabna",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "Garrison Hurley",
+      "email": "garrisonhurley@earthplex.com",
+      "phone": "+880 (825) 476-2539",
+      "districTName": "Natore",
+      "status": "pending",
+      "payment": false
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "name": "Elba Clayton",
+      "email": "elbaclayton@earthplex.com",
+      "phone": "+880 (851) 446-3577",
+      "districTName": "Pabna",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Catherine Byrd",
+      "email": "catherinebyrd@earthplex.com",
+      "phone": "+880 (967) 547-2418",
+      "districTName": "Natore",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "name": "Manning Fitzgerald",
+      "email": "manningfitzgerald@earthplex.com",
+      "phone": "+880 (908) 566-2804",
+      "districTName": "Pabna",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Robinson Bell",
+      "email": "robinsonbell@earthplex.com",
+      "phone": "+880 (915) 415-3022",
+      "districTName": "Natore",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Ella Ruiz",
+      "email": "ellaruiz@earthplex.com",
+      "phone": "+880 (932) 506-2860",
+      "districTName": "Pabna",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "name": "Karin Moran",
+      "email": "karinmoran@earthplex.com",
+      "phone": "+880 (888) 588-3428",
+      "districTName": "Pabna",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "name": "Marianne English",
+      "email": "marianneenglish@earthplex.com",
+      "phone": "+880 (880) 528-2327",
+      "districTName": "Natore",
+      "status": "pending",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "name": "Moody Mejia",
+      "email": "moodymejia@earthplex.com",
+      "phone": "+880 (917) 414-2302",
+      "districTName": "Pabna",
+      "status": "done",
+      "payment": true
+    },
+    {
+      "profilepicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "name": "Pacheco Gordon",
+      "email": "pachecogordon@earthplex.com",
+      "phone": "+880 (920) 581-3124",
+      "districTName": "Pabna",
+      "status": "done",
+      "payment": true
+    }
+  ],
+  "hotNews": [
+    {
+      "banner": "https://i.ibb.co/jwgmZfT/pic1.jpg",
+      "newsTitle": "eiusmod magna amet adipisicing irure proident pariatur occaecat",
+      "news": "Excepteur cupidatat eiusmod aliqua laborum tempor est. Non do elit elit excepteur aliqua aute. Adipisicing ut enim elit irure nulla excepteur proident. Occaecat cupidatat ipsum elit ut eu adipisicing nulla sint amet ipsum laborum aliquip ut. Nostrud consectetur aute incididunt do sint reprehenderit est. Sunt cillum amet exercitation anim nostrud magna voluptate veniam duis velit quis. Eu qui minim nulla et duis in anim consequat aliquip laborum irure pariatur. Proident commodo laboris aute eiusmod laborum non ullamco reprehenderit nisi anim labore adipisicing excepteur et. Laborum ex aute do dolore et commodo esse mollit eiusmod minim in. Est id irure duis mollit eiusmod nulla minim laboris anim eu. Consequat adipisicing consectetur velit aute ullamco nulla cupidatat irure amet. Ullamco consectetur proident officia aliqua esse aliqua. Labore do aute commodo excepteur amet magna occaecat exercitation ea culpa irure esse. Sint labore voluptate Lorem mollit mollit magna mollit qui mollit proident ad. Do id nulla eiusmod sunt magna consectetur. Excepteur deserunt sunt adipisicing consectetur eiusmod eu irure consectetur. Elit deserunt aliquip do sint consequat laboris irure exercitation adipisicing nostrud laborum. Ex exercitation magna minim aliquip ullamco sit in sit voluptate amet veniam tempor velit ex. Nulla esse ex nisi minim. Quis id Lorem proident veniam reprehenderit. Culpa nulla adipisicing nisi ullamco amet laborum tempor reprehenderit quis dolor commodo excepteur. Quis ullamco laborum nulla nostrud proident ad. Elit qui culpa eu aliqua ut ad adipisicing minim anim. Lorem laboris elit qui labore non aute non ut sunt culpa. Magna officia enim et quis id amet nisi eiusmod culpa fugiat ad elit adipisicing anim. Mollit enim exercitation ad velit et occaecat ut labore elit minim cillum ex. Voluptate id laboris velit duis sit pariatur fugiat elit laborum dolore. Culpa id id elit id commodo excepteur ex aute eiusmod. Nulla veniam officia pariatur nulla ea sint velit do. Labore et eiusmod dolore et voluptate ex consectetur eiusmod veniam. Eiusmod veniam mollit aliquip pariatur et. Irure mollit nisi ea pariatur labore elit irure ipsum. Esse ea minim occaecat consectetur nisi occaecat voluptate et officia aliqua id sit deserunt. Fugiat consectetur et et esse est ad labore consectetur. Non commodo occaecat consequat esse mollit id laboris. Nulla reprehenderit ipsum nisi Lorem minim. ",
+      "registered": "2021-01-02T07:58:13 -06:00",
+      "tags": [
+        "eiusmod",
+        "ex",
+        "sit",
+        "elit",
+        "culpa",
+        "proident",
+        "reprehenderit"
+      ]
+    },
+    {
+      "banner": "https://i.ibb.co/qkxmQXc/pic2.jpg",
+      "newsTitle": "voluptate Lorem sint est nostrud labore in culpa",
+      "news": "Reprehenderit aute officia ipsum reprehenderit mollit do ad amet quis consequat ipsum est esse do. Commodo ad Lorem sunt ex enim aute commodo ex culpa excepteur esse ullamco tempor. Deserunt ullamco deserunt labore sit magna mollit excepteur deserunt magna tempor irure cupidatat consectetur. Ex minim adipisicing incididunt magna eu nulla et in sit dolor. Consequat mollit culpa consectetur Lorem. In ea incididunt dolore nulla ipsum est in. Anim nulla ea non irure consectetur ea mollit. Id est dolore minim exercitation deserunt est ea consequat cillum adipisicing. In sit elit sint in culpa ullamco sint laboris anim. Aliqua cillum eiusmod qui velit in aute officia pariatur laboris labore anim velit in pariatur. Eiusmod irure id irure esse velit aliquip consectetur. Est est occaecat qui fugiat voluptate occaecat fugiat anim est magna ex aute ullamco. Excepteur reprehenderit id nostrud Lorem pariatur elit id adipisicing nulla cillum et veniam. In aute adipisicing ullamco duis irure cupidatat dolor ut qui. Sit incididunt labore sint dolore elit deserunt et pariatur reprehenderit commodo proident culpa. Nisi elit ut irure eiusmod deserunt consequat consectetur veniam tempor fugiat qui labore. Mollit laboris do fugiat culpa proident nisi Lorem commodo ea sit. Pariatur magna do veniam duis amet dolore proident commodo quis. Eiusmod tempor qui consectetur ex. Ullamco ullamco ipsum elit enim fugiat deserunt minim sunt quis culpa. Consequat labore est irure et velit velit. Ex officia voluptate voluptate consequat ullamco est dolore fugiat sint nostrud. Excepteur incididunt qui ut ex incididunt. Do aliqua magna mollit cupidatat Lorem quis incididunt anim cupidatat consequat. Aliquip anim adipisicing elit culpa ex elit fugiat sint commodo excepteur. Fugiat aliqua reprehenderit ut enim aute officia elit aliquip eu dolore commodo. Qui est irure exercitation adipisicing aute anim ullamco irure fugiat enim sunt eiusmod pariatur cillum. Pariatur id deserunt mollit cillum pariatur ea occaecat deserunt incididunt esse nulla cillum. Labore qui tempor ut mollit reprehenderit aute veniam in. Pariatur pariatur aute elit Lorem cillum dolore. Quis anim eu fugiat consectetur anim Lorem consectetur sunt ut id. Labore id esse sunt labore adipisicing ad ipsum minim aliqua consectetur non. Aute labore tempor ullamco voluptate ex laboris et eiusmod enim minim. Commodo non eu qui in commodo voluptate dolore incididunt aliquip aliquip dolor culpa sint. Lorem labore laboris cillum eiusmod ad eiusmod cupidatat duis. In ipsum et elit elit eu excepteur eu consequat sunt ipsum. Nostrud eiusmod Lorem ut reprehenderit nisi pariatur non non magna occaecat id. Veniam qui aute qui adipisicing exercitation minim id sit ullamco. ",
+      "registered": "2022-01-07T04:33:53 -06:00",
+      "tags": [
+        "consectetur",
+        "aliqua",
+        "veniam",
+        "deserunt",
+        "velit",
+        "do",
+        "est"
+      ]
+    },
+    {
+      "banner": "https://i.ibb.co/BNzLtbC/pic3.jpg",
+      "newsTitle": "consectetur est excepteur do laborum et anim nulla",
+      "news": "Nulla labore est ullamco nostrud tempor sunt eu eu incididunt pariatur elit. Consequat proident qui exercitation aute nostrud labore ea fugiat eu. Qui exercitation labore deserunt tempor consequat officia ipsum deserunt esse. Velit ad sunt cillum fugiat esse commodo ut adipisicing voluptate irure et qui elit. Voluptate do mollit quis excepteur dolor adipisicing cillum nisi ullamco occaecat. Proident quis minim sint mollit laboris sint voluptate mollit veniam incididunt sunt. Est aute duis nulla mollit duis dolor veniam cupidatat sunt tempor. Non cillum Lorem voluptate velit laboris veniam et adipisicing id ad non eiusmod nisi velit. Officia qui sint est ullamco magna magna aute sit dolore ut. Qui ut aliquip est do duis minim aliqua aute labore deserunt occaecat elit sunt ex. Aute occaecat deserunt et veniam. Laboris labore incididunt officia reprehenderit duis eu anim et. Consectetur velit reprehenderit do sint labore dolor nisi fugiat magna deserunt velit sint veniam. Sint mollit labore in enim nostrud Lorem laboris aute incididunt ipsum deserunt et. Dolore ex fugiat dolore fugiat in dolor aliqua. Ex dolor sint enim laborum reprehenderit est cillum fugiat elit qui in et culpa laborum. Fugiat voluptate eu ad elit et. Qui pariatur veniam ea id ullamco Lorem mollit aliqua laboris amet velit proident aliquip. Laboris exercitation tempor veniam deserunt veniam laborum irure sint amet ad cillum qui eu. Lorem cillum ex id eiusmod anim dolore. Magna adipisicing excepteur eiusmod aliqua veniam aute dolore nulla proident magna incididunt id culpa. Ut cillum fugiat occaecat nisi in eu amet est enim labore consectetur. Proident cupidatat veniam occaecat commodo officia deserunt commodo. Quis commodo officia ex ea incididunt non duis tempor. Ipsum ea ad duis proident quis esse est laboris amet consectetur elit. Sint consectetur ea aute mollit officia laboris dolore. Cillum id consequat est culpa laboris nisi elit in laborum sit est sunt. Labore adipisicing elit incididunt culpa commodo cupidatat laboris. Ullamco exercitation sint ad in eu tempor commodo officia non quis commodo nostrud. Sunt exercitation reprehenderit labore cillum exercitation in reprehenderit do. Ad cillum ex adipisicing occaecat ut nisi. Veniam nostrud occaecat elit reprehenderit fugiat occaecat sint culpa dolor minim consectetur laboris. Esse duis aliqua eiusmod dolor magna officia deserunt anim nulla ut ullamco veniam. Reprehenderit veniam deserunt consectetur pariatur tempor officia cillum exercitation sint consectetur. Nisi consequat culpa culpa enim do irure minim consectetur culpa. Ipsum exercitation officia nisi labore sunt sint sint eiusmod est. Sunt exercitation reprehenderit Lorem cupidatat. Tempor velit magna fugiat consequat pariatur magna ex veniam. Fugiat Lorem reprehenderit pariatur exercitation enim duis incididunt. Fugiat adipisicing sit sint ullamco proident Lorem ullamco fugiat. Incididunt commodo ea officia eiusmod reprehenderit dolor tempor. ",
+      "registered": "2016-08-10T11:48:34 -06:00",
+      "tags": [
+        "reprehenderit",
+        "tempor",
+        "consequat",
+        "adipisicing",
+        "excepteur",
+        "enim",
+        "minim"
+      ]
+    },
+    {
+      "banner": "https://i.ibb.co/MZMr47d/pic4.jpg",
+      "newsTitle": "ex deserunt dolor do cillum nulla tempor deserunt",
+      "news": "Occaecat Lorem proident elit ea nulla velit voluptate fugiat tempor enim. Quis irure dolore nulla occaecat enim commodo ut dolore qui mollit ex enim incididunt qui. Veniam culpa sint aute est irure nostrud non eu dolor ex dolor voluptate anim non. Non aute aliqua ad deserunt duis nulla labore labore officia sunt irure. Irure non enim aliqua cupidatat esse sunt sint fugiat ex irure laboris irure. Laboris qui voluptate incididunt irure ea sint voluptate duis reprehenderit Lorem nostrud do labore. Mollit eu non ut aute sit nostrud magna quis. Aliquip reprehenderit laboris duis cupidatat minim non nisi labore. In consectetur duis laborum eiusmod pariatur nisi nostrud mollit id incididunt deserunt enim qui. Consequat deserunt consectetur qui exercitation veniam ullamco quis ut amet labore. Elit deserunt fugiat ad et. Ex ex qui Lorem exercitation laborum. Nostrud amet aliquip duis reprehenderit ullamco. Nulla quis in commodo dolor laborum cillum reprehenderit velit eu non qui. Nisi ullamco nulla anim incididunt adipisicing irure voluptate exercitation. Ad veniam non ullamco labore ut irure nisi laboris voluptate in consectetur exercitation non ullamco. Pariatur duis magna do adipisicing consequat amet fugiat velit enim laboris aliqua cupidatat tempor ea. Reprehenderit minim anim aliqua qui excepteur occaecat quis. Dolore adipisicing excepteur magna nostrud ea tempor amet id commodo non nostrud cupidatat amet. In consectetur cillum nostrud sunt magna esse fugiat non aliquip. Amet eu qui excepteur aliqua velit quis ea veniam. Commodo commodo duis dolor consectetur cillum magna est incididunt reprehenderit non. Minim elit elit occaecat amet in deserunt reprehenderit in sit pariatur aute do id ex. Duis est esse et veniam sit consequat reprehenderit nisi laborum. In incididunt esse do voluptate ullamco eiusmod dolore enim in mollit commodo nulla. Esse incididunt non ullamco sunt ea proident sunt ex irure sit occaecat tempor do eu. Occaecat enim nisi incididunt culpa esse. Cillum sint amet consectetur pariatur duis ad occaecat ipsum est dolor laboris id ut labore. Irure excepteur dolor nostrud nisi sunt ex aliquip qui quis cillum exercitation ipsum proident. Consectetur in in ea reprehenderit elit id non anim consequat. Cupidatat magna eiusmod voluptate elit cupidatat excepteur Lorem ut velit velit deserunt. Cillum enim commodo officia tempor est nulla ipsum fugiat dolor culpa cillum mollit irure. Qui sunt laboris aliquip proident non. Cupidatat minim fugiat enim sunt elit enim aliquip sint commodo nisi esse fugiat qui in. Irure culpa culpa ipsum aliquip consectetur occaecat irure enim tempor sunt cupidatat irure anim. Fugiat velit excepteur do mollit minim in in exercitation enim exercitation sint aliquip enim officia. Et proident id mollit ipsum non. Cupidatat qui esse ipsum nulla. Proident reprehenderit deserunt ex labore ad irure pariatur. Esse reprehenderit do dolore veniam aliquip pariatur irure. Commodo consequat reprehenderit consequat eu sint do est adipisicing fugiat cupidatat laborum. Anim commodo commodo consectetur aliquip id culpa qui deserunt. Excepteur qui mollit aliquip elit nisi quis qui et cillum veniam. Est adipisicing ut esse est proident velit nulla minim deserunt exercitation. Incididunt labore anim non duis occaecat occaecat. ",
+      "registered": "2018-12-26T01:41:47 -06:00",
+      "tags": ["non", "sint", "ut", "et", "laboris", "laborum", "cillum"]
+    },
+    {
+      "banner": "https://i.ibb.co/VVCpY71/pic5.jpg",
+      "newsTitle": "nostrud proident non ut in ullamco reprehenderit veniam",
+      "news": "Quis non elit ullamco nostrud cillum laboris fugiat et voluptate aliqua Lorem. Nisi adipisicing nulla consequat magna. Voluptate occaecat elit in ut veniam pariatur pariatur non pariatur esse laborum sit fugiat. Quis dolore tempor in ex cupidatat velit sint duis exercitation ut ipsum. Enim laboris do elit mollit proident eiusmod ipsum incididunt fugiat officia est pariatur. Pariatur duis enim occaecat Lorem cillum ea exercitation quis reprehenderit deserunt eiusmod. Velit tempor sint veniam quis tempor consequat laborum adipisicing occaecat excepteur incididunt incididunt. Deserunt pariatur nulla eiusmod laboris aliquip pariatur ad. Ullamco elit aute ut proident voluptate dolore exercitation mollit veniam. Consectetur commodo aliquip est cupidatat. Consequat ex excepteur eu anim anim id sit aute. Sunt cupidatat aliquip ullamco veniam. Pariatur fugiat ipsum deserunt nostrud elit ipsum Lorem magna elit anim Lorem. Ad consectetur exercitation Lorem consectetur officia sit. Ea cillum incididunt proident sit fugiat consequat occaecat sit. Nostrud dolor esse eu magna fugiat adipisicing excepteur dolore labore elit esse deserunt enim. Lorem adipisicing quis in deserunt et do enim sint et enim sunt voluptate. Dolor sit aute ut ex minim excepteur ipsum proident incididunt laborum mollit commodo. Quis irure amet reprehenderit officia aliquip aliquip ea adipisicing velit aute sit fugiat fugiat sunt. Ad id commodo non ipsum sint elit pariatur amet Lorem. Non in pariatur cupidatat adipisicing adipisicing cillum minim fugiat eiusmod aliquip in pariatur ipsum veniam. Occaecat deserunt et aute veniam excepteur culpa duis. Adipisicing incididunt duis consequat nisi non ipsum adipisicing cupidatat laboris aute est magna. Ad ex veniam consectetur minim reprehenderit. Consectetur id cupidatat fugiat ad ex culpa non in cupidatat veniam dolore veniam sit. Consectetur ex ullamco eiusmod consequat aute dolore. Aliqua ad magna occaecat cillum eiusmod cillum cupidatat est nisi cillum. Excepteur occaecat Lorem anim minim Lorem et fugiat Lorem in enim deserunt. Excepteur nisi ullamco laborum sit aliqua ea fugiat dolor in eu duis nisi. Laborum nisi minim laborum laboris ea adipisicing non adipisicing excepteur voluptate. Minim qui cillum occaecat consequat velit sunt in. Reprehenderit ullamco minim non tempor irure id exercitation occaecat eu voluptate est voluptate reprehenderit exercitation. Voluptate irure officia consequat eiusmod mollit aliqua anim incididunt excepteur. Cupidatat labore in commodo officia pariatur qui. Aliqua irure consequat mollit sint occaecat cillum enim magna non elit proident. Cillum Lorem eiusmod reprehenderit reprehenderit proident veniam deserunt irure commodo. Magna ipsum et labore esse ex exercitation aliqua reprehenderit labore cupidatat dolor minim. Eiusmod duis ipsum elit duis eu officia. Proident eiusmod Lorem anim veniam magna irure qui commodo ut culpa. Do consectetur exercitation aliquip dolore ex duis sint adipisicing ea mollit sint consectetur et. Qui nisi commodo anim elit ad deserunt dolore commodo aute magna. Veniam sint duis exercitation aute velit ad eu aute consequat adipisicing mollit occaecat. ",
+      "registered": "2019-03-29T04:41:14 -06:00",
+      "tags": [
+        "elit",
+        "adipisicing",
+        "sunt",
+        "voluptate",
+        "laborum",
+        "id",
+        "in"
+      ]
+    },
+    {
+      "banner": "https://i.ibb.co/WHzrdsh/pic6.jpg",
+      "newsTitle": "ut aliquip quis adipisicing labore sit sint aliqua",
+      "news": "Excepteur nulla anim sit sint ea voluptate mollit occaecat eu reprehenderit. Ex in commodo non commodo ut enim ipsum consectetur velit aliquip cillum amet tempor voluptate. Aliquip sunt fugiat voluptate magna excepteur pariatur cupidatat in mollit ex est non enim. Excepteur non elit et dolor incididunt magna. Sunt et elit ea ipsum voluptate id duis do esse adipisicing magna dolor. Dolor proident anim Lorem adipisicing ut commodo excepteur est officia ex. In proident aliqua minim voluptate aliquip consequat labore fugiat ad labore irure labore aute sunt. Laborum consectetur minim magna qui et officia non laboris exercitation quis nisi aute aliqua adipisicing. Eu et sunt nisi cupidatat nisi Lorem. Labore voluptate sunt anim consectetur dolor est id commodo eiusmod Lorem. Adipisicing ullamco amet nostrud Lorem excepteur quis labore nisi esse. Consectetur dolor nisi adipisicing deserunt irure enim ipsum id quis ut laboris elit. Consectetur incididunt nulla tempor sit amet officia qui ut elit consequat. Ullamco reprehenderit duis occaecat sint anim nostrud mollit aliquip. Commodo aute occaecat laborum consequat. Ut ad tempor ex consequat aliqua consectetur nulla id laborum adipisicing magna voluptate. Amet pariatur dolore velit cupidatat velit irure magna labore irure. Sit sunt enim tempor nostrud voluptate excepteur nostrud duis labore mollit sit velit ad. Ex qui deserunt enim amet magna cillum sunt elit labore dolore id laboris. Esse nulla amet labore mollit quis. Enim nisi labore nisi nostrud labore mollit cupidatat fugiat id adipisicing enim. Dolore veniam non voluptate velit esse amet est dolore culpa. Veniam deserunt cillum ipsum ex voluptate ea sint fugiat amet reprehenderit. Ipsum amet veniam laborum irure minim officia cillum cupidatat consequat in commodo quis nulla anim. Exercitation magna anim nulla in veniam sit adipisicing consequat esse labore commodo. Reprehenderit eu exercitation commodo mollit aliqua laboris labore sunt. Ipsum enim voluptate veniam labore. Nisi enim irure tempor non culpa laborum velit quis adipisicing Lorem dolor. Aute tempor magna nulla ex labore do Lorem laboris mollit proident commodo dolore pariatur. Eiusmod magna ex nostrud minim irure consectetur Lorem non consectetur cillum dolore. Mollit quis deserunt ex in deserunt officia eiusmod minim. Enim Lorem excepteur eu dolore do enim cupidatat anim adipisicing mollit laboris adipisicing ipsum aute. Sit incididunt elit adipisicing fugiat fugiat dolor cupidatat tempor commodo. Excepteur reprehenderit cupidatat enim consequat fugiat excepteur reprehenderit amet culpa quis incididunt et. Exercitation nulla exercitation esse reprehenderit laborum. Nulla aliqua in voluptate ex quis id proident dolor id eu velit proident. Sit qui aliqua laboris esse commodo qui reprehenderit eu et ipsum. Ullamco ut laboris ad nostrud sint cupidatat anim. ",
+      "registered": "2014-09-18T01:38:52 -06:00",
+      "tags": ["elit", "consequat", "aliqua", "in", "elit", "amet", "non"]
+    },
+    {
+      "banner": "https://i.ibb.co/9sh9Css/pic7.jpg",
+      "newsTitle": "non duis laborum aliqua non anim ut cupidatat",
+      "news": "Id eu sit velit nisi labore fugiat laboris irure ipsum excepteur sit Lorem. Aliqua consectetur ex elit fugiat esse consequat exercitation eiusmod cillum. Magna fugiat in aute fugiat in cillum. Ad ex consectetur aliquip est ipsum excepteur elit. Ea tempor incididunt ad cillum laborum officia id ex et id. Laborum et cupidatat do mollit irure laboris aliquip esse dolor exercitation laborum. Minim excepteur consequat occaecat sit excepteur dolore magna. Mollit enim eu labore culpa sit cupidatat amet. Anim sunt ullamco laboris ut culpa minim. Do enim cillum eu ullamco. Pariatur ut fugiat ullamco excepteur qui laborum qui voluptate ex pariatur eiusmod est voluptate. Ea non eu veniam est sit. Eiusmod et ut magna exercitation ad quis sint id eiusmod deserunt tempor aliqua velit. Culpa duis exercitation cupidatat officia ea aliqua exercitation incididunt consectetur exercitation quis exercitation nisi qui. Sunt elit laborum consectetur voluptate ullamco laboris ea occaecat quis exercitation duis elit sunt. Aliquip eu exercitation fugiat quis fugiat tempor excepteur dolore commodo adipisicing dolor minim in consectetur. Nostrud exercitation ad pariatur ut laboris qui ipsum eiusmod veniam elit velit adipisicing duis ipsum. Ex nostrud anim excepteur nostrud deserunt voluptate quis. Dolore magna cupidatat laborum ex deserunt reprehenderit. Mollit aliquip quis reprehenderit occaecat Lorem enim magna dolore eiusmod enim ullamco magna et in. In incididunt velit mollit consequat duis sint elit nulla deserunt velit reprehenderit. Exercitation ullamco eiusmod nisi sit anim. Do magna voluptate consectetur est eiusmod ea quis qui enim occaecat sint occaecat. Tempor amet laborum incididunt dolor sint velit enim reprehenderit cupidatat dolor dolore voluptate. Id veniam incididunt voluptate amet esse ullamco do laboris irure velit adipisicing ad deserunt. Consequat eu culpa in ipsum velit quis occaecat exercitation ad eiusmod reprehenderit. Sint in anim Lorem pariatur ullamco veniam. Anim non ut tempor minim ullamco consequat do aliqua cupidatat. Occaecat incididunt nulla dolor aliquip tempor proident et mollit et duis culpa amet occaecat. Et consectetur irure aute enim laboris nulla nostrud laboris labore culpa qui laboris sint velit. Ad nulla eiusmod pariatur ullamco aliquip reprehenderit deserunt aliquip amet reprehenderit minim consequat. Dolore do eu mollit mollit est ipsum exercitation. Magna eiusmod aute minim elit Lorem qui in amet dolor esse nulla sint in amet. Voluptate excepteur deserunt id et elit est. Eu ut officia do pariatur nostrud laborum reprehenderit qui laboris sint officia ullamco. Id est laboris laboris enim sint consequat. Deserunt dolore incididunt et dolor in aute sit esse. Consectetur mollit in Lorem laborum incididunt tempor enim do officia irure. Proident sit culpa fugiat non ad enim officia occaecat enim. Consectetur aliqua nisi excepteur proident. Excepteur deserunt cillum ipsum qui culpa et mollit. Dolore anim nisi adipisicing aute occaecat dolor. ",
+      "registered": "2014-10-16T02:28:49 -06:00",
+      "tags": ["ullamco", "ex", "fugiat", "esse", "non", "sint", "exercitation"]
+    },
+    {
+      "banner": "https://i.ibb.co/L1nSngk/pic8.jpg",
+      "newsTitle": "in dolore in in magna officia consectetur excepteur",
+      "news": "Voluptate excepteur esse nostrud fugiat culpa reprehenderit aliqua enim irure. Cillum nulla deserunt ea est excepteur minim. Nostrud magna ad Lorem eu mollit commodo excepteur et adipisicing officia reprehenderit duis. Reprehenderit consectetur ex nisi in adipisicing ad. Nisi ad aute adipisicing ullamco qui Lorem esse. Ipsum incididunt exercitation magna ex cillum incididunt duis fugiat consectetur. Aliqua aute cupidatat duis cillum esse occaecat commodo excepteur. Cupidatat aliquip voluptate consectetur deserunt ex reprehenderit cillum laborum nulla amet sit tempor dolore. Aute cillum aute tempor laborum commodo voluptate ipsum sit ipsum proident laboris magna adipisicing duis. Cupidatat sit dolor nostrud Lorem esse et enim et. Voluptate id cillum non exercitation culpa. Est anim fugiat amet labore eu ut eiusmod pariatur pariatur cillum. Excepteur aliqua qui irure eu amet cupidatat ipsum anim. Est dolor consequat veniam ipsum pariatur aliquip. Ex culpa irure eiusmod officia irure ullamco aliqua excepteur nulla. Consequat incididunt do consectetur culpa. Tempor exercitation labore consectetur ullamco veniam sint. Est sit qui minim culpa dolore pariatur et ad ullamco. Fugiat reprehenderit veniam et cillum. Aute nulla anim in excepteur velit non. Sint esse proident do deserunt aliquip labore velit aliquip. Ut quis occaecat proident velit ullamco proident. Qui adipisicing veniam laborum nostrud nisi anim veniam do pariatur nostrud. Nisi duis laboris duis esse proident anim nisi nisi eu in quis. Voluptate tempor anim incididunt esse ad culpa. Lorem nostrud voluptate ipsum esse ullamco reprehenderit ad consequat est reprehenderit ad laborum commodo duis. Tempor irure et pariatur voluptate aute ipsum anim. Commodo irure amet commodo eiusmod aliquip ex sunt eu. Commodo reprehenderit non consectetur fugiat. Anim anim laborum eiusmod in consequat incididunt reprehenderit eiusmod amet aliqua. Sint magna laborum esse aliquip pariatur. Duis deserunt id aute tempor ut adipisicing sunt duis eiusmod incididunt sit do. Eiusmod duis eu sunt anim. Enim et exercitation ex veniam officia esse dolor irure ipsum. Voluptate non eu ea irure laborum id magna ut elit. Tempor excepteur officia commodo velit Lorem incididunt id sunt ullamco dolore. Aute est id commodo officia ad proident dolore laboris non consequat. Do est exercitation elit quis est magna nisi ex laboris incididunt aliquip esse. Id ad aliqua nulla dolore elit sit duis cillum enim sint quis quis cillum. Nulla esse est officia eu duis aliquip ut consequat sunt enim excepteur id fugiat incididunt. Proident exercitation ut veniam culpa culpa exercitation veniam elit cupidatat ad est magna. Anim do duis magna aliquip. Tempor consequat sunt duis enim aliqua anim consectetur. Id non amet magna elit. Eu dolor velit in sunt pariatur minim tempor. ",
+      "registered": "2021-05-27T02:30:44 -06:00",
+      "tags": [
+        "non",
+        "ea",
+        "eiusmod",
+        "pariatur",
+        "eiusmod",
+        "anim",
+        "exercitation"
+      ]
+    },
+    {
+      "banner": "https://i.ibb.co/mqPpfr8/pic9.jpg",
+      "newsTitle": "in nisi ex commodo minim ipsum labore culpa",
+      "news": "Magna do consectetur irure cupidatat exercitation amet eiusmod ullamco sunt. Nulla eu ea aliqua Lorem duis aliqua aliquip. Minim labore enim incididunt ea est. Minim Lorem veniam adipisicing cillum deserunt. Et aute fugiat occaecat ex aliquip voluptate consequat deserunt magna minim. Aliqua aliquip mollit aliqua excepteur nostrud ipsum deserunt et qui excepteur elit. Laboris voluptate non aliquip nisi commodo est tempor veniam dolore ut laboris qui. Adipisicing eiusmod incididunt ea officia nisi laboris velit qui fugiat ex amet. Eu consectetur fugiat aute ea nisi sint culpa. Deserunt esse proident et eiusmod dolore nulla dolor veniam laborum. Amet non eiusmod elit cillum ex elit ut excepteur aliquip. Ipsum cillum consectetur magna pariatur ipsum reprehenderit. Culpa dolor eu Lorem esse duis ipsum laborum incididunt laboris exercitation eiusmod adipisicing et laborum. Veniam laborum enim pariatur aliqua sint aute elit voluptate officia. Commodo nostrud eiusmod consectetur enim pariatur cupidatat aliqua laboris. Ex irure laborum fugiat irure. Anim ullamco voluptate quis excepteur veniam sint mollit esse velit ut ad id cupidatat. Sit anim aute sit sit enim aliqua Lorem cillum labore do sint. Ullamco Lorem sit anim duis pariatur. Do magna nulla incididunt ullamco id officia nisi. Officia voluptate do ullamco non sit cillum elit anim proident do cupidatat. Cillum occaecat consectetur occaecat nulla cillum ex sit tempor enim. Nostrud reprehenderit deserunt eiusmod et esse. Cupidatat eu quis nostrud tempor aliqua cupidatat. Irure labore laboris dolor commodo. Tempor amet cillum eu sunt. Et elit amet enim et ipsum dolore deserunt dolore qui adipisicing. Duis mollit deserunt eiusmod consequat. Sunt laborum Lorem ullamco esse sunt eiusmod voluptate. Consequat mollit magna voluptate elit adipisicing. Ad commodo laborum nulla velit cupidatat amet esse consequat dolore cillum labore. Duis cillum dolor deserunt deserunt nostrud ullamco officia est cillum. Voluptate dolor sit nisi ut do officia elit sit esse dolor anim ex ex. Duis officia esse enim ipsum. Aute aliquip excepteur ut deserunt est duis sit quis do dolore cillum. Ex fugiat est magna veniam laborum excepteur do ex ea minim aute nostrud. Officia esse ut sint cupidatat ut. Aliquip laboris magna est ut consectetur id in adipisicing cillum consequat minim incididunt. Minim nulla irure officia dolore dolore irure est reprehenderit occaecat eu laboris. Ea pariatur voluptate incididunt dolore. Ad quis voluptate ea qui ullamco dolor esse occaecat excepteur aute proident ut. Voluptate velit ullamco aliquip pariatur excepteur proident commodo excepteur nulla est irure incididunt laborum. Dolor officia ea labore minim aute consequat adipisicing. Proident nostrud ex deserunt velit eiusmod officia laborum eu laboris culpa excepteur. ",
+      "registered": "2022-07-05T05:55:23 -06:00",
+      "tags": ["ipsum", "labore", "deserunt", "laborum", "magna", "do", "nisi"]
+    },
+    {
+      "banner": "https://i.ibb.co/sw7mvs5/pic10.jpg",
+      "newsTitle": "Lorem culpa eiusmod sit mollit eu Lorem ullamco",
+      "news": "Enim fugiat enim enim ad exercitation sint eiusmod voluptate dolor laborum. Eiusmod officia proident ea ut ullamco magna velit sit ea aliquip nulla. Eiusmod labore veniam cillum ut magna. Pariatur officia do do sit eiusmod cupidatat culpa dolor duis. Commodo enim exercitation fugiat id nostrud ex laboris. Et esse cupidatat nostrud nisi officia laborum elit veniam aliqua est mollit Lorem aute et. Minim ad deserunt sint enim fugiat quis irure officia ad id ut amet enim in. Veniam fugiat ea tempor voluptate anim veniam nostrud nisi. Qui irure tempor consectetur sint adipisicing adipisicing enim quis occaecat pariatur commodo in laboris. Elit officia officia magna enim voluptate quis veniam culpa. Irure sint occaecat adipisicing sint do et. Id officia aliqua nostrud veniam ut id dolore deserunt id nisi ad adipisicing. Magna reprehenderit Lorem commodo ullamco exercitation sit anim quis nisi id commodo nulla nulla labore. Cillum consequat minim dolore eiusmod elit. Qui enim magna excepteur cillum ut ut magna occaecat velit. Exercitation commodo sit labore mollit esse aliquip et nostrud minim ipsum sunt dolore pariatur. Adipisicing deserunt id magna excepteur. Reprehenderit nulla do in elit eiusmod nulla ea veniam ea qui. Excepteur occaecat officia sit do velit eu. Cillum esse do elit consequat dolore aliqua et deserunt deserunt officia minim in nisi. Esse reprehenderit incididunt fugiat occaecat ea est anim amet. Esse laboris mollit incididunt Lorem culpa Lorem enim ea veniam. Proident dolore occaecat nisi laborum Lorem voluptate sint aliqua cupidatat adipisicing ad aliquip dolore. Consectetur officia anim fugiat enim fugiat. Eiusmod ex laboris exercitation nulla. Veniam in incididunt do magna et cillum nisi. Officia nulla mollit adipisicing esse ipsum esse dolore adipisicing aliqua. Et deserunt aliquip laborum aute sit eu occaecat. Ad incididunt enim proident voluptate est ea veniam magna labore non. Eu cillum magna voluptate ut Lorem pariatur velit in aliqua reprehenderit. Laboris do ullamco eiusmod id consequat non ullamco et cillum incididunt ipsum quis quis. Dolore ullamco sint reprehenderit culpa. Consequat magna aliqua mollit aute laboris et anim occaecat. Ipsum est deserunt amet labore nostrud enim tempor ullamco. ",
+      "registered": "2020-06-23T01:48:29 -06:00",
+      "tags": [
+        "exercitation",
+        "ullamco",
+        "non",
+        "laboris",
+        "ullamco",
+        "nostrud",
+        "exercitation"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Velit nisi proident esse quis aute magna officia anim culpa culpa sit ipsum ipsum.",
+      "answer": "Esse ut aliqua consequat cillum labore velit est. Tempor anim ipsum dolore aliquip laboris magna non reprehenderit qui veniam et labore. Irure culpa esse sit esse commodo proident velit et nisi proident."
+    },
+    {
+      "question": "Ipsum officia culpa irure ipsum velit culpa elit sunt sint id do commodo voluptate.",
+      "answer": "Elit adipisicing in ea reprehenderit enim proident labore minim commodo adipisicing ullamco dolore in fugiat. Dolor occaecat qui ea sit do adipisicing ipsum laboris ea aliquip exercitation enim labore consectetur. Eiusmod dolor elit aliquip cillum irure sunt excepteur est aliquip ullamco adipisicing dolore pariatur nostrud."
+    },
+    {
+      "question": "Sit ex qui sint sint.",
+      "answer": "Et velit sint deserunt veniam officia aute et amet tempor nostrud aliquip consectetur exercitation. Duis fugiat officia duis aute nulla sunt amet eiusmod irure sit nostrud culpa eiusmod. Ullamco in incididunt culpa nisi."
+    },
+    {
+      "question": "Sint anim non esse cupidatat eiusmod voluptate do do consequat aliquip veniam.",
+      "answer": "Aliquip sint Lorem dolor duis ad ipsum id cupidatat aute sint occaecat cupidatat reprehenderit eu. Aute pariatur irure eiusmod ipsum duis aliqua enim ipsum adipisicing et cillum aute. Incididunt officia mollit sit mollit qui eu culpa laborum nulla incididunt et magna occaecat."
+    },
+    {
+      "question": "Nostrud velit elit eiusmod excepteur nisi.",
+      "answer": "Occaecat culpa incididunt quis Lorem ipsum quis duis deserunt aute. Esse irure est consectetur dolor. Enim laboris minim culpa id cillum esse labore amet voluptate voluptate aliqua eu."
+    }
+  ],
+  "teamMember": [
+    {
+      "name": "Richmond Mcguire",
+      "email": "richmondmcguire@brainclip.com",
+      "profilePicture": "https://i.ibb.co/gP7HkqJ/pic1.jpg",
+      "intro": "consequat ipsum tempor ipsum",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "Manager"
+    },
+    {
+      "name": "Landry Williamson",
+      "email": "landrywilliamson@brainclip.com",
+      "profilePicture": "https://i.ibb.co/Jjm2vpD/pic2.jpg",
+      "intro": "pariatur fugiat consequat laborum",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "CEO"
+    },
+    {
+      "name": "Mindy Rice",
+      "email": "mindyrice@brainclip.com",
+      "profilePicture": "https://i.ibb.co/sKRYT5Q/profile-Pic4.jpg",
+      "intro": "ea minim ea quis",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "CTO"
+    },
+    {
+      "name": "Faith Williams",
+      "email": "faithwilliams@brainclip.com",
+      "profilePicture": "https://i.ibb.co/bKn7RYK/pic3.jpg",
+      "intro": "voluptate ea nostrud ad",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "Genaral Manager"
+    },
+    {
+      "name": "Adele Stein",
+      "email": "adelestein@brainclip.com",
+      "profilePicture": "https://i.ibb.co/JFXs4sX/profile-Pic10.jpg",
+      "intro": "tempor id eiusmod sint",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "Genaral Manager"
+    },
+    {
+      "name": "Dillard Alvarado",
+      "email": "dillardalvarado@brainclip.com",
+      "profilePicture": "https://i.ibb.co/gvX3LZ2/profile-Pic11.jpg",
+      "intro": "mollit nisi ea ex",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "Genaral Manager"
+    },
+    {
+      "name": "Jo Ingram",
+      "email": "joingram@brainclip.com",
+      "profilePicture": "https://i.ibb.co/bbqn59S/pic4.jpg",
+      "intro": "in exercitation voluptate dolore",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "CTO"
+    },
+    {
+      "name": "Sanford Wise",
+      "email": "sanfordwise@brainclip.com",
+      "profilePicture": "https://i.ibb.co/GVT1W1m/pic5.jpg",
+      "intro": "mollit excepteur occaecat est",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "Manager"
+    },
+    {
+      "name": "Edwards Munoz",
+      "email": "edwardsmunoz@brainclip.com",
+      "profilePicture": "https://i.ibb.co/mNMMMg7/profile-Pic1.jpg",
+      "intro": "aute irure adipisicing exercitation",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "Manager"
+    },
+    {
+      "name": "Adriana Frye",
+      "email": "adrianafrye@brainclip.com",
+      "profilePicture": "https://i.ibb.co/yY95S5Y/profile-Pic2.jpg",
+      "intro": "nostrud est aliqua amet",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CEO"
+    },
+    {
+      "name": "Kathryn May",
+      "email": "kathrynmay@brainclip.com",
+      "profilePicture": "https://i.ibb.co/NZ4DpXK/profile-Pic8.jpg",
+      "intro": "nostrud mollit eu qui",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Alicia Robinson",
+      "email": "aliciarobinson@brainclip.com",
+      "profilePicture": "https://i.ibb.co/sKRYT5Q/profile-Pic4.jpg",
+      "intro": "deserunt aute esse et",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Hayes Colon",
+      "email": "hayescolon@brainclip.com",
+      "profilePicture": "https://i.ibb.co/ByGSTKv/profile-Pic5.jpg",
+      "intro": "et Lorem commodo incididunt",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Koch Chandler",
+      "email": "kochchandler@brainclip.com",
+      "profilePicture": "https://i.ibb.co/1ZXk7P3/profile-Pic6.jpg",
+      "intro": "nostrud et laborum duis",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Hensley Acevedo",
+      "email": "hensleyacevedo@brainclip.com",
+      "profilePicture": "https://i.ibb.co/ngzrTLH/pic6.jpg",
+      "intro": "incididunt officia anim labore",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "CTO"
+    },
+    {
+      "name": "Aida Horton",
+      "email": "aidahorton@brainclip.com",
+      "profilePicture": " https://i.ibb.co/z41trZw/pic7.jpg",
+      "intro": "nisi in sint sint",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "EXECUTIVE",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Renee Floyd",
+      "email": "reneefloyd@brainclip.com",
+      "profilePicture": "https://i.ibb.co/z41trZw/pic7.jpg",
+      "intro": "veniam in sint nisi",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Mccarty Donovan",
+      "email": "mccartydonovan@brainclip.com",
+      "profilePicture": "https://i.ibb.co/HgFDLpP/profile-Pic7.jpg",
+      "intro": "cupidatat culpa id ea",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Powers Miller",
+      "email": "powersmiller@brainclip.com",
+      "profilePicture": "https://i.ibb.co/NZ4DpXK/profile-Pic8.jpg",
+      "intro": "sint Lorem minim ut",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    },
+    {
+      "name": "Kate Clarke",
+      "email": "kateclarke@brainclip.com",
+      "profilePicture": "https://i.ibb.co/MG8fzPy/profile-Pic9.jpg",
+      "intro": "cupidatat ex consectetur Lorem",
+      "allSocial": [
+        {
+          "id": 0,
+          "facebook": "http://facebook.com/"
+        },
+        {
+          "id": 1,
+          "linkedIn": "http://linkedin.com/"
+        },
+        {
+          "id": 2,
+          "twitter": "http://twitter.com/"
+        }
+      ],
+      "role": "OPERATION",
+      "designation": "CTO  "
+    }
+  ],
+  "blog": [
+    {
+      "email": "estermayo@pheast.com",
+      "blogTitle": "in velit enim nisi laborum",
+      "blog": "Laborum eiusmod amet laborum dolor in. Do elit quis occaecat qui aliqua laboris id consequat magna velit dolor. Tempor reprehenderit amet est cillum. Laboris in eu voluptate eiusmod qui. Ad elit cupidatat do reprehenderit veniam voluptate ipsum consequat excepteur do fugiat nisi Lorem amet. Veniam cupidatat culpa aliquip dolor pariatur mollit exercitation exercitation enim. Consequat tempor exercitation voluptate nostrud ad Lorem ad cupidatat sint sunt sit labore ea consectetur. ",
+      "date": "2014-06-06T07:07:22 -06:00",
+      "picture": "https://i.ibb.co/p2CfGfQ/pic11.jpg",
+      "tags": ["Lorem", "minim", "labore"],
+      "comments": ["aliquip", "minim", "eu"]
+    },
+    {
+      "email": "estermayo@pheast.com",
+      "blogTitle": "eiusmod fugiat ut officia deserunt",
+      "blog": "Fugiat ullamco enim ex incididunt. Fugiat ea do aute consequat. Aute consequat sint veniam proident anim magna consectetur. Nisi minim commodo est irure laboris cillum cupidatat consequat eiusmod minim aliquip laboris est enim. Et occaecat do id ipsum voluptate cupidatat laborum nulla aute ipsum. Commodo veniam nostrud deserunt officia deserunt aute. Esse enim labore non magna anim amet. ",
+      "date": "2020-11-15T05:08:42 -06:00",
+      "picture": "https://i.ibb.co/mqPpfr8/pic9.jpg",
+      "tags": ["minim", "ex", "aute"],
+      "comments": ["nisi", "quis", "do"]
+    },
+    {
+      "email": "estermayo@pheast.com",
+      "blogTitle": "commodo sunt aliqua adipisicing nostrud",
+      "blog": "Esse consequat enim reprehenderit tempor enim est commodo sint culpa in adipisicing excepteur veniam irure. Non ipsum aliquip dolor laboris et excepteur cupidatat tempor. Aliquip labore ea officia nisi exercitation et do voluptate reprehenderit. ",
+      "date": "2020-10-09T01:39:10 -06:00",
+      "picture": "https://i.ibb.co/L1nSngk/pic8.jpg",
+      "tags": ["voluptate", "cillum", "duis"],
+      "comments": ["nulla", "fugiat", "tempor"]
+    },
+    {
+      "email": "estermayo@pheast.com",
+      "blogTitle": "ipsum est esse ipsum sunt",
+      "blog": "Ea proident in eiusmod laboris enim anim aliqua magna exercitation. Do adipisicing est est consectetur duis eiusmod elit proident eu. Qui pariatur dolore magna consectetur ex et sint amet. Adipisicing laborum esse fugiat eiusmod non ad id exercitation aliqua minim velit. Duis consequat duis nulla deserunt commodo exercitation tempor consectetur ipsum nisi velit cupidatat. Eu nulla commodo adipisicing duis labore cupidatat quis mollit sint do sit elit. Velit quis elit sint nisi est velit nostrud consectetur ex irure non consequat dolore. ",
+      "date": "2021-02-17T12:54:09 -06:00",
+      "picture": "https://i.ibb.co/VVCpY71/pic5.jpg",
+      "tags": ["excepteur", "consectetur", "veniam"],
+      "comments": ["officia", "laboris", "consequat"]
+    },
+    {
+      "email": "estermayo@pheast.com",
+      "blogTitle": "minim adipisicing nostrud exercitation quis",
+      "blog": "Officia tempor cupidatat commodo officia deserunt officia est id sint tempor velit aute magna. Non mollit laboris id deserunt laboris sit dolor culpa quis. Ex duis quis id fugiat veniam Lorem. Officia ad non eiusmod nisi est. ",
+      "date": "2015-10-21T12:22:03 -06:00",
+      "picture": "https://i.ibb.co/BNzLtbC/pic3.jpg",
+      "tags": ["adipisicing", "irure", "Lorem"],
+      "comments": ["ea", "laboris", "nostrud"]
+    }
+  ],
+  "user": [
+    {
+      "name": "omar",
+      "email": "omar@gmail.com",
+      "password": "123456",
+      "phone": "01521434492",
+      "district": "pabna",
+      "conditions": true
+    }
+  ]
+}
